@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Flags</folder>
+	<filename>13931a.jpg</filename>
+	<path>/Users/antonella/Desktop/Flags/13931a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>26</ymin>
+			<xmax>366</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+</annotation>

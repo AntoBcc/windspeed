@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Flags</folder>
+	<filename>aufmerksamkeit-istock-178846365-2-e1560509302462.jpg</filename>
+	<path>/Users/antonella/Desktop/Flags/aufmerksamkeit-istock-178846365-2-e1560509302462.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>457</xmin>
+			<ymin>99</ymin>
+			<xmax>630</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

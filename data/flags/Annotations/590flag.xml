@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Flags</folder>
+	<filename>Half-staff-featured.jpg</filename>
+	<path>/Users/antonella/Desktop/Flags/Half-staff-featured.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>678</width>
+		<height>381</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>100</ymin>
+			<xmax>406</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

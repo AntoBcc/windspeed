@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Flags</folder>
+	<filename>G04421-FR-01_xgaplus.jpg</filename>
+	<path>/Users/antonella/Desktop/Flags/G04421-FR-01_xgaplus.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>576</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>375</ymin>
+			<xmax>343</xmax>
+			<ymax>460</ymax>
+		</bndbox>
+	</object>
+</annotation>

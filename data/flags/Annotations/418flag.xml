@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Flags</folder>
+	<filename>BIG-ASS-FLAG-860x484.png</filename>
+	<path>/Users/antonella/Desktop/Flags/BIG-ASS-FLAG-860x484.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>860</width>
+		<height>484</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>67</ymin>
+			<xmax>588</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Flags</folder>
+	<filename>ansa155197411004143528_big.jpg</filename>
+	<path>/Users/antonella/Desktop/Flags/ansa155197411004143528_big.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>205</ymin>
+			<xmax>167</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+</annotation>

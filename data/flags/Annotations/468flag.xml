@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Flags</folder>
+	<filename>csm_tellerrand_schweiz_flagge_nical_0c8d729474.jpg</filename>
+	<path>/Users/antonella/Desktop/Flags/csm_tellerrand_schweiz_flagge_nical_0c8d729474.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>840</width>
+		<height>548</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>502</xmin>
+			<ymin>69</ymin>
+			<xmax>592</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Flags</folder>
+	<filename>gettyimages-168623042-2048x2048.jpg</filename>
+	<path>/Users/antonella/Desktop/Flags/gettyimages-168623042-2048x2048.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>782</xmin>
+			<ymin>195</ymin>
+			<xmax>1062</xmax>
+			<ymax>577</ymax>
+		</bndbox>
+	</object>
+</annotation>

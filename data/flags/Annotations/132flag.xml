@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Flags</folder>
+	<filename>170621-Flag-at-half-mast-1725-005.jpg</filename>
+	<path>/Users/antonella/Desktop/Flags/170621-Flag-at-half-mast-1725-005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>685</width>
+		<height>457</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>90</ymin>
+			<xmax>422</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

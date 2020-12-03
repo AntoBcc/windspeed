@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Flags</folder>
+	<filename>1775217_ka-2015-1200_1s6BmT_No9BSi.jpg</filename>
+	<path>/Users/antonella/Desktop/Flags/1775217_ka-2015-1200_1s6BmT_No9BSi.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>596</xmin>
+			<ymin>140</ymin>
+			<xmax>812</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

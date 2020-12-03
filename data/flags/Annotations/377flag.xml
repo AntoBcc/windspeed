@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Flags</folder>
+	<filename>bandiera-ammainata.jpg</filename>
+	<path>/Users/antonella/Desktop/Flags/bandiera-ammainata.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>323</ymin>
+			<xmax>298</xmax>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+</annotation>
